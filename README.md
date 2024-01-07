@@ -15,7 +15,7 @@
 #### A number of changes have been made to the codebase to meet the criteria:
 
 #### 1. Creation of a concise and descriptive title.
-#### 2. Creation of proper heading attributes so that the fall in a sequential order. 
+#### 2. Creation of proper heading attributes so that they fall in a sequential order. 
 #### 3. All of the images now have been provided with an alt attribute which provides a detailed description of the image. 
 #### 4. All of the non-semantic HTML tags have been replaced with semantic tags.
 #### 5. Overall the HTML tags now follow a logical structure. 
