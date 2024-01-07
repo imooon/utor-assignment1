@@ -1,5 +1,5 @@
 # Horiseon Website
-![Alt text](Develop/assets/images/_E__BootCamp_Class_Assignments_Module20Challenge_utor-assignment1_Develop_index.html.png)
+![_E__BootCamp_Class_Assignments_Module20Challenge_utor-assignment1_Develop_index html](https://github.com/imooon/utor-assignment1/assets/110244046/f306b647-56ee-4b46-86e3-6ca059c66e90)
 
 
 ## Description
