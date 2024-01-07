@@ -22,7 +22,11 @@
 
 ## URL of the GitHub repository
 
+https://github.com/imooon/utor-assignment1.git
+
 ## URL of the deployed application
+
+https://imooon.github.io/utor-assignment1/
 
 ## License 
 
